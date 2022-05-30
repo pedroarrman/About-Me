@@ -1,7 +1,7 @@
 - 👋 Hola, mi nombre es Pedro 
 - 👀 Estoy interesado en el desarrollo de páginas web
 - 🌱 Actualmente soy alumno del ciclo formativo de Desarrollo de Aplicaciones Web
-- 📫 [https://miarboldeenlaces.wordpress.com/](https://miarboldeenlaces.wordpress.com/)
+- 📫 [https://miarboldeenlaces.wordpress.com/] target="_blank"(https://miarboldeenlaces.wordpress.com/)
 <!---
 - 💞️ I’m looking to collaborate on ...
 
