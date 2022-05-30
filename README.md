@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  
  
-
+<img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/photoshop.png?raw=true" style="max-width: 100%;">
  
