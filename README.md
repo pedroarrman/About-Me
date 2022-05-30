@@ -1,13 +1,15 @@
 - 👋 Hola, mi nombre es Pedro 
 - 👀 Estoy interesado en el desarrollo de páginas web
 - 🌱 Actualmente soy alumno del ciclo formativo de Desarrollo de Aplicaciones Web
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
 Peterlim1994/Peterlim1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 
 Lenguajes y Herramientas:
