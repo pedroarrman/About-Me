@@ -3,8 +3,8 @@
 - 🌱 Actualmente soy alumno del ciclo formativo de Desarrollo de Aplicaciones Web
 - 📫 https://miarboldeenlaces.wordpress.com/ 
 
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-
+<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="
+https://www.linkedin.com/in/pedro-arribas-manzano-616759a5/?challengeId=AQEJIpvhTijEPgAAAYBNboACWFUcYklT0iWzWzENc_Rk1Dar2f-YXalCWYfrp1VLigeyAb1mjye91id1vjvriubR4qiY87uxJA&submissionId=1da23646-83fd-e716-3db5-1bc29d529b36" alt="LinkedIn" width="30"></a>
 <!---
 - 💞️ I’m looking to collaborate on ...
 
