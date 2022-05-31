@@ -2,6 +2,9 @@
 - 👀 Estoy interesado en el desarrollo de páginas web
 - 🌱 Actualmente soy alumno del ciclo formativo de Desarrollo de Aplicaciones Web
 - 📫 https://miarboldeenlaces.wordpress.com/ 
+
+<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 
