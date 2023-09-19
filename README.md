@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 Lenguajes y Herramientas:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/bash%20-%23F05033.svg?&style=for-the-badge&logo=bash&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/bash-green?style=for-the-badge)
+
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
