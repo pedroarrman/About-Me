@@ -34,6 +34,7 @@ Librerías:
 
 
 Estructuras de datos:
+
 ![XML Badge](https://img.shields.io/badge/XML-Data%20Format-orange?style=for-the-badge&logo=codeigniter&logoColor=white) ![JSON Badge](https://img.shields.io/badge/JSON-Data%20Exchange-000000?style=for-the-badge&logo=json&logoColor=white)
 
 
