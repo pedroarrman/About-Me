@@ -12,7 +12,7 @@ Lenguajes de programación:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Static Badge](https://img.shields.io/badge/bash-green?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP Badge](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php&logoColor=white)
 
 
-Herramientas
+Herramientas:
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![AJAX Badge](https://img.shields.io/badge/AJAX-Asynchronous%20Requests-007ec6?style=for-the-badge&logo=javascript&logoColor=white)
