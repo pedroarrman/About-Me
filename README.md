@@ -1,5 +1,5 @@
 - 👋 Hola, mi nombre es Pedro 
-- 👀 Estoy interesado en el desarrollo de páginas web
+- 👷‍♂️ Soy un albañil de la web
 - 🌱 Poseo el título de grado superior de Desarrollo de Aplicaciones Web
 - 📫 Como contactarme: [https://allmylinks.com/pedroarrman](https://allmylinks.com/pedroarrman)
 
